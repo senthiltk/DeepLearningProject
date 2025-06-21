@@ -127,7 +127,6 @@ Extracts booking details from the transcribed text:
 - Source station
 - Destination station
 - Number of tickets
-- Travel time
 
 ## License
 
