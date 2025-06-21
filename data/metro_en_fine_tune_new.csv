@@ -1,0 +1,251 @@
+text,labels
+Book a ticket from Yeshwanthpur to KR Market for eight person.,metro_booking O O O O B-from_station O B-to_station I-to_station O B-num_tickets O
+I need to book five tickets from Talaghattapura to Jayanagar.,metro_booking O O O O B-num_tickets O O B-from_station O B-to_station
+I want to reserve seven metro tickets from Kuvempu Road to Dr. B.R. Ambedkar Station Vidhana Soudha.,metro_booking O O O O B-num_tickets O O O B-from_station I-from_station O O O O O O O
+I'd like to book one tickets on the metro from Baiyappanahalli to Rajarajeshwari Nagar.,metro_booking O O O O B-num_tickets O O O O O B-from_station O B-to_station I-to_station
+Book six adult ticket from Doddakallasandra to Dasarahalli.,metro_booking O B-num_tickets O O O B-from_station O B-to_station
+Book for 5 from Nayandahalli to KR Market.,metro_booking O O B-num_tickets O B-from_station O B-to_station I-to_station
+Can I get a metro for nine person from Whitefield to KR Market?,metro_booking O O O O O O B-num_tickets O O B-from_station O B-to_station I-to_station
+How many tickets for South End Circle to Kengeri? four.,metro_booking O O O O B-from_station I-from_station I-from_station O B-to_station B-num_tickets
+Book a ticket from Indiranagar to Talaghattapura for six person.,metro_booking O O O O B-from_station O B-to_station O B-num_tickets O
+I want to book metro tickets from Hosahalli to Rajajinagar for six people.,metro_booking O O O O O O O B-from_station O B-to_station O B-num_tickets O
+I want to book metro tickets from Talaghattapura to Sir M. Visvesvaraya Station Central College for four people.,metro_booking O O O O O O O B-from_station O O O O O O O O B-num_tickets O
+I want to reserve 4 metro tickets from Kengeri to Cubbon Park.,metro_booking O O O O B-num_tickets O O O B-from_station O B-to_station I-to_station
+"10 tickets from Mysore Road to Jayaprakash Nagar, please.",metro_booking B-num_tickets O O B-from_station I-from_station O B-to_station I-to_station O
+I want to book five tickets from Lalbagh to National College.,metro_booking O O O O B-num_tickets O O B-from_station O B-to_station I-to_station
+Please book tickets from Kengeri to Nagasandra for a couple of.,metro_booking O O O O B-from_station O B-to_station O B-num_tickets I-num_tickets I-num_tickets
+I'd like to book 5 tickets on the metro from Banashankari to Sir M. Visvesvaraya Station Central College.,metro_booking O O O O B-num_tickets O O O O O B-from_station O O O O O O O
+Book for 1 from Dr. B.R. Ambedkar Station Vidhana Soudha to Sir M. Visvesvaraya Station Central College.,metro_booking O O B-num_tickets O O O O O O O O O O O O O O
+I need a ticket from Talaghattapura to Whitefield.,metro_booking O O O O O B-from_station O B-to_station
+"I want to go from Cubbon Park to Deepanjali Nagar, 10 ticket.",metro_booking O O O O O B-from_station I-from_station O B-to_station I-to_station B-num_tickets O
+Please book tickets from Jayaprakash Nagar to Deepanjali Nagar for 4.,metro_booking O O O O B-from_station I-from_station O B-to_station I-to_station O B-num_tickets
+Can I book 9 tickets from Nayandahalli to Mahalaxmi?,metro_booking O O O B-num_tickets O O B-from_station O B-to_station
+Looking to book six tickets from Yeshwanthpur to Jalahalli.,metro_booking O O O B-num_tickets O O B-from_station O B-to_station
+Looking to book two tickets from Dr. B.R. Ambedkar Station Vidhana Soudha to Kuvempu Road.,metro_booking O O O B-num_tickets O O O O O O O O O B-to_station I-to_station
+Book a couple of adult ticket from Doddakallasandra to Lalbagh.,metro_booking O B-num_tickets I-num_tickets I-num_tickets O O O B-from_station O B-to_station
+Book for 8 from Kuvempu Road to Talaghattapura.,metro_booking O O B-num_tickets O B-from_station I-from_station O B-to_station
+I need 3 ticket from Sir M. Visvesvaraya Station Central College to Srirampura.,metro_booking O O B-num_tickets O O O O O O O O O B-to_station
+How do I book 3 tickets from Indiranagar to Peenya?,metro_booking O O O O B-num_tickets O O B-from_station O B-to_station
+I want to reserve 2 metro tickets from Vajrahalli to Baiyappanahalli.,metro_booking O O O O B-num_tickets O O O B-from_station O B-to_station
+I need to book tickets for four from Doddakallasandra to Krantivira Sangolli Rayanna Railway Station.,metro_booking O O O O O O B-num_tickets O B-from_station O B-to_station I-to_station I-to_station I-to_station I-to_station
+six ticket from Rajajinagar to Nagasandra.,metro_booking B-num_tickets O O B-from_station O B-to_station
+How many tickets for Jalahalli to Mysore Road? three.,metro_booking O O O O B-from_station O B-to_station I-to_station B-num_tickets
+Can I get a metro for 1 person from Sir M. Visvesvaraya Station Central College to South End Circle?,metro_booking O O O O O O B-num_tickets O O O O O O O O O B-to_station I-to_station I-to_station
+How many tickets for Yeshwanthpur to Deepanjali Nagar? six.,metro_booking O O O O B-from_station O B-to_station I-to_station B-num_tickets
+"one tickets from Vajrahalli to Lalbagh, please.",metro_booking B-num_tickets O O B-from_station O B-to_station O
+I need a ticket from Krantivira Sangolli Rayanna Railway Station to Srirampura.,metro_booking O O O O O B-from_station I-from_station I-from_station I-from_station I-from_station O B-to_station
+Book ten adult ticket from Mantri Square Sampige Road to Lalbagh.,metro_booking O B-num_tickets O O O B-from_station I-from_station I-from_station I-from_station O B-to_station
+Can I book 4 tickets from Lalbagh to Peenya?,metro_booking O O O B-num_tickets O O B-from_station O B-to_station
+I need a ticket from RV Road to Sir M. Visvesvaraya Station Central College.,metro_booking O O O O O B-from_station I-from_station O O O O O O O
+six ticket from RV Road to Rajarajeshwari Nagar.,metro_booking B-num_tickets O O B-from_station I-from_station O B-to_station I-to_station
+I want to book metro tickets from Mantri Square Sampige Road to Konankunte Cross for five people.,metro_booking O O O O O O O B-from_station I-from_station I-from_station I-from_station O B-to_station I-to_station O B-num_tickets O
+Book for 9 from RV Road to Mahalaxmi.,metro_booking O O B-num_tickets O B-from_station I-from_station O B-to_station
+Book a ticket from Peenya to Mantri Square Sampige Road for six person.,metro_booking O O O O B-from_station O B-to_station I-to_station I-to_station I-to_station O B-num_tickets O
+Need seven tickets from Vijayanagar to JP Nagar.,metro_booking O B-num_tickets O O B-from_station O B-to_station I-to_station
+I want to book seven tickets from Sandal Soap Factory to Sir M. Visvesvaraya Station Central College.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station I-from_station O O O O O O O
+I want to book 10 tickets from Mantri Square Sampige Road to Rajarajeshwari Nagar.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station I-from_station I-from_station O B-to_station I-to_station
+Get me 3 tickets from Krantivira Sangolli Rayanna Railway Station to Attiguppe.,metro_booking O O B-num_tickets O O B-from_station I-from_station I-from_station I-from_station I-from_station O B-to_station
+Book a ticket from Mysore Road to Nagasandra for nine person.,metro_booking O O O O B-from_station I-from_station O B-to_station O B-num_tickets O
+Book a ticket from Kadugodi to Dr. B.R. Ambedkar Station Vidhana Soudha for eight person.,metro_booking O O O O B-from_station O O O O O O O O B-num_tickets O
+I want to book six tickets from Silk Institute to Peenya.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station O B-to_station
+Can you get me 6 tickets for the metro from Kengeri to Indiranagar?,metro_booking O O O O B-num_tickets O O O O O B-from_station O B-to_station
+6 ticket from Kadugodi to Attiguppe.,metro_booking B-num_tickets O O B-from_station O B-to_station
+How many tickets for Talaghattapura to RV Road? 5.,metro_booking O O O O B-from_station O B-to_station I-to_station B-num_tickets
+Can I buy 3 tickets from JP Nagar to Banashankari?,metro_booking O O O B-num_tickets O O B-from_station I-from_station O B-to_station
+I need to book five tickets from Jalahalli to South End Circle.,metro_booking O O O O B-num_tickets O O B-from_station O B-to_station I-to_station I-to_station
+Book 4 tickets for metro from Rajajinagar to Krantivira Sangolli Rayanna Railway Station.,metro_booking O B-num_tickets O O O O B-from_station O B-to_station I-to_station I-to_station I-to_station I-to_station
+How do I book six tickets from RV Road to Jayaprakash Nagar?,metro_booking O O O O B-num_tickets O O B-from_station I-from_station O B-to_station I-to_station
+I want to book metro tickets from Vijayanagar to Jayaprakash Nagar for a single people.,metro_booking O O O O O O O B-from_station O B-to_station I-to_station O B-num_tickets I-num_tickets O
+I need to book five tickets from RV Road to Dasarahalli.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station O B-to_station
+Can I buy 6 tickets from Sandal Soap Factory to Banashankari?,metro_booking O O O B-num_tickets O O B-from_station I-from_station I-from_station O B-to_station
+Get me 5 tickets from JP Nagar to Vijayanagar.,metro_booking O O B-num_tickets O O B-from_station I-from_station O B-to_station
+"one tickets from Mysore Road to South End Circle, please.",metro_booking B-num_tickets O O B-from_station I-from_station O B-to_station I-to_station I-to_station O
+I want to book metro tickets from Nayandahalli to Ragigudda for a couple of people.,metro_booking O O O O O O O B-from_station O B-to_station O B-num_tickets I-num_tickets I-num_tickets O
+I want to book metro tickets from Vijayanagar to Lalbagh for 10 people.,metro_booking O O O O O O O B-from_station O B-to_station O B-num_tickets O
+Book 7 seats on the metro from Deepanjali Nagar to Sandal Soap Factory.,metro_booking O B-num_tickets O O O O O B-from_station I-from_station O B-to_station I-to_station I-to_station
+Can I buy 7 tickets from Jalahalli to Jayaprakash Nagar?,metro_booking O O O B-num_tickets O O B-from_station O B-to_station I-to_station
+I want to book a single trip from Silk Institute to JP Nagar.,metro_booking O O O O O B-num_tickets O O B-from_station I-from_station O B-to_station I-to_station
+Book seven tickets from Kadugodi to Sandal Soap Factory.,metro_booking O B-num_tickets O O B-from_station O B-to_station I-to_station I-to_station
+I want to book a single trip from Jalahalli to Doddakallasandra.,metro_booking O O O O O B-num_tickets O O B-from_station O B-to_station
+Can you get me 5 tickets for the metro from Yeshwanthpur to Cubbon Park?,metro_booking O O O O B-num_tickets O O O O O B-from_station O B-to_station I-to_station
+Please book a tickets from Indiranagar to Kadugodi.,metro_booking O O B-num_tickets O O B-from_station O B-to_station
+Can I buy 8 tickets from Sir M. Visvesvaraya Station Central College to Indiranagar?,metro_booking O O O B-num_tickets O O O O O O O O O B-to_station
+How do I book 10 tickets from Peenya to Cubbon Park?,metro_booking O O O O B-num_tickets O O B-from_station O B-to_station I-to_station
+I need to book 2 tickets from Kengeri to Srirampura.,metro_booking O O O O B-num_tickets O O B-from_station O B-to_station
+Please book tickets from Sandal Soap Factory to Doddakallasandra for 4.,metro_booking O O O O B-from_station I-from_station I-from_station O B-to_station O B-num_tickets
+I need to book ten tickets from KR Market to National College.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station O B-to_station I-to_station
+Can I get a metro for 3 person from Vijayanagar to JP Nagar?,metro_booking O O O O O O B-num_tickets O O B-from_station O B-to_station I-to_station
+Can I buy 7 tickets from Hosahalli to Deepanjali Nagar?,metro_booking O O O B-num_tickets O O B-from_station O B-to_station I-to_station
+Looking to book seven tickets from Ragigudda to Whitefield.,metro_booking O O O B-num_tickets O O B-from_station O B-to_station
+Please book tickets from South End Circle to Mantri Square Sampige Road for 1.,metro_booking O O O O B-from_station I-from_station I-from_station O B-to_station I-to_station I-to_station I-to_station O B-num_tickets
+I need 6 ticket from Cubbon Park to Jayaprakash Nagar.,metro_booking O O B-num_tickets O O B-from_station I-from_station O B-to_station I-to_station
+Book a ticket from Doddakallasandra to South End Circle for 10 person.,metro_booking O O O O B-from_station O B-to_station I-to_station I-to_station O B-num_tickets O
+I want to book metro tickets from Mahalaxmi to Mysore Road for just one people.,metro_booking O O O O O O O B-from_station O B-to_station I-to_station O B-num_tickets I-num_tickets O
+Can I get a metro for a single person from Hosahalli to Kuvempu Road?,metro_booking O O O O O O B-num_tickets I-num_tickets O O B-from_station O B-to_station I-to_station
+I want to book five tickets from Deepanjali Nagar to RV Road.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station O B-to_station I-to_station
+I need a ticket from Deepanjali Nagar to Krantivira Sangolli Rayanna Railway Station.,metro_booking O O O O O B-from_station I-from_station O B-to_station I-to_station I-to_station I-to_station I-to_station
+10 ticket from Vajrahalli to Nayandahalli.,metro_booking B-num_tickets O O B-from_station O B-to_station
+I'd like to book two tickets on the metro from RV Road to Sandal Soap Factory.,metro_booking O O O O B-num_tickets O O O O O B-from_station I-from_station O B-to_station I-to_station I-to_station
+I need 2 ticket from Kengeri to MG Road.,metro_booking O O B-num_tickets O O B-from_station O B-to_station I-to_station
+Book seven tickets from Yelachenahalli to Dr. B.R. Ambedkar Station Vidhana Soudha.,metro_booking O B-num_tickets O O B-from_station O O O O O O O
+I want to book metro tickets from RV Road to JP Nagar for 6 people.,metro_booking O O O O O O O B-from_station I-from_station O B-to_station I-to_station O B-num_tickets O
+Need 3 tickets from Sandal Soap Factory to Doddakallasandra.,metro_booking O B-num_tickets O O B-from_station I-from_station I-from_station O B-to_station
+Can you help me book 5 ticket from Jayaprakash Nagar to Yelachenahalli?,metro_booking O O O O O B-num_tickets O O B-from_station I-from_station O B-to_station
+Get me five tickets from Kuvempu Road to Dasarahalli.,metro_booking O O B-num_tickets O O B-from_station I-from_station O B-to_station
+I'd like to book 7 tickets on the metro from Kadugodi to Sandal Soap Factory.,metro_booking O O O O B-num_tickets O O O O O B-from_station O B-to_station I-to_station I-to_station
+Book six adult ticket from Vijayanagar to JP Nagar.,metro_booking O B-num_tickets O O O B-from_station O B-to_station I-to_station
+Get me five tickets from Nayandahalli to Sir M. Visvesvaraya Station Central College.,metro_booking O O B-num_tickets O O B-from_station O O O O O O O
+Can you get me four tickets for the metro from Mysore Road to Whitefield?,metro_booking O O O O B-num_tickets O O O O O B-from_station I-from_station O B-to_station
+Book two tickets from Peenya to National College.,metro_booking O B-num_tickets O O B-from_station O B-to_station I-to_station
+I need to book tickets for 4 from Attiguppe to Yelachenahalli.,metro_booking O O O O O O B-num_tickets O B-from_station O B-to_station
+Looking to book a couple of tickets from Nayandahalli to Hosahalli.,metro_booking O O O B-num_tickets I-num_tickets I-num_tickets O O B-from_station O B-to_station
+Book a ticket from Kadugodi to South End Circle for 5 person.,metro_booking O O O O B-from_station O B-to_station I-to_station I-to_station O B-num_tickets O
+"just one tickets from Jayanagar to Dasarahalli, please.",metro_booking B-num_tickets I-num_tickets O O B-from_station O B-to_station O
+Can you help me book nine ticket from Yelachenahalli to Talaghattapura?,metro_booking O O O O O B-num_tickets O O B-from_station O B-to_station
+four ticket from Peenya to Banashankari.,metro_booking B-num_tickets O O B-from_station O B-to_station
+Book six tickets from Konankunte Cross to Krantivira Sangolli Rayanna Railway Station.,metro_booking O B-num_tickets O O B-from_station I-from_station O B-to_station I-to_station I-to_station I-to_station I-to_station
+I need a single ticket from Doddakallasandra to Banashankari.,metro_booking O O B-num_tickets I-num_tickets O O B-from_station O B-to_station
+I need to book 4 tickets from Dr. B.R. Ambedkar Station Vidhana Soudha to MG Road.,metro_booking O O O O B-num_tickets O O O O O O O O O B-to_station I-to_station
+I need to book tickets for nine from Attiguppe to Mantri Square Sampige Road.,metro_booking O O O O O O B-num_tickets O B-from_station O B-to_station I-to_station I-to_station I-to_station
+Book ten tickets from Silk Institute to Jayaprakash Nagar.,metro_booking O B-num_tickets O O B-from_station I-from_station O B-to_station I-to_station
+Can you get me just one tickets for the metro from Konankunte Cross to Indiranagar?,metro_booking O O O O B-num_tickets I-num_tickets O O O O O B-from_station I-from_station O B-to_station
+Looking to book three tickets from Mantri Square Sampige Road to Jayaprakash Nagar.,metro_booking O O O B-num_tickets O O B-from_station I-from_station I-from_station I-from_station O B-to_station I-to_station
+Please book tickets from JP Nagar to Kadugodi for five.,metro_booking O O O O B-from_station I-from_station O B-to_station O B-num_tickets
+Can you get me three tickets for the metro from Banashankari to Yelachenahalli?,metro_booking O O O O B-num_tickets O O O O O B-from_station O B-to_station
+Book 7 tickets from Sandal Soap Factory to Majestic.,metro_booking O B-num_tickets O O B-from_station I-from_station I-from_station O B-to_station
+I need nine ticket from Jalahalli to Baiyappanahalli.,metro_booking O O B-num_tickets O O B-from_station O B-to_station
+Book 7 tickets for metro from Talaghattapura to KR Market.,metro_booking O B-num_tickets O O O O B-from_station O B-to_station I-to_station
+Book a single tickets from Yeshwanthpur to Deepanjali Nagar.,metro_booking O B-num_tickets I-num_tickets O O B-from_station O B-to_station I-to_station
+Please book one tickets from MG Road to Mysore Road.,metro_booking O O B-num_tickets O O B-from_station I-from_station O B-to_station I-to_station
+Book for 8 from Vijayanagar to Srirampura.,metro_booking O O B-num_tickets O B-from_station O B-to_station
+I want to book metro tickets from Sir M. Visvesvaraya Station Central College to RV Road for five people.,metro_booking O O O O O O O O O O O O O O B-to_station I-to_station O B-num_tickets O
+I need to book tickets for 6 from Hosahalli to Talaghattapura.,metro_booking O O O O O O B-num_tickets O B-from_station O B-to_station
+Book nine tickets from Cubbon Park to Vajrahalli.,metro_booking O B-num_tickets O O B-from_station I-from_station O B-to_station
+I'd like to book six tickets on the metro from Peenya to Jalahalli.,metro_booking O O O O B-num_tickets O O O O O B-from_station O B-to_station
+Book a ticket from Mantri Square Sampige Road to RV Road for seven person.,metro_booking O O O O B-from_station I-from_station I-from_station I-from_station O B-to_station I-to_station O B-num_tickets O
+I'd like to get 3 tickets from Konankunte Cross to Baiyappanahalli.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station O B-to_station
+Book a ticket from Dr. B.R. Ambedkar Station Vidhana Soudha to Banashankari for 5 person.,metro_booking O O O O O O O O O O O B-to_station O B-num_tickets O
+Book a couple of seats on the metro from Krantivira Sangolli Rayanna Railway Station to Kengeri.,metro_booking O B-num_tickets I-num_tickets I-num_tickets O O O O O B-from_station I-from_station I-from_station I-from_station I-from_station O B-to_station
+Book nine tickets for metro from Kuvempu Road to Attiguppe.,metro_booking O B-num_tickets O O O O B-from_station I-from_station O B-to_station
+I'd like to get 9 tickets from Dr. B.R. Ambedkar Station Vidhana Soudha to RV Road.,metro_booking O O O O B-num_tickets O O O O O O O O O B-to_station I-to_station
+I want to book metro tickets from Talaghattapura to Konankunte Cross for six people.,metro_booking O O O O O O O B-from_station O B-to_station I-to_station O B-num_tickets O
+Book 5 adult ticket from Konankunte Cross to Srirampura.,metro_booking O B-num_tickets O O O B-from_station I-from_station O B-to_station
+I need a ticket from Ragigudda to South End Circle.,metro_booking O O B-num_tickets O O B-from_station O B-to_station I-to_station I-to_station
+I need to book tickets for four from MG Road to Kengeri.,metro_booking O O O O O O B-num_tickets O B-from_station I-from_station O B-to_station
+I'd like to get four tickets from Yeshwanthpur to Peenya.,metro_booking O O O O B-num_tickets O O B-from_station O B-to_station
+I want to book 10 tickets from Lalbagh to Sandal Soap Factory.,metro_booking O O O O B-num_tickets O O B-from_station O B-to_station I-to_station I-to_station
+I need a ticket from Whitefield to Doddakallasandra.,metro_booking O O O O O B-from_station O B-to_station
+Get me 5 tickets from Nayandahalli to RV Road.,metro_booking O O B-num_tickets O O B-from_station O B-to_station I-to_station
+Can I buy 5 tickets from Rajajinagar to Cubbon Park?,metro_booking O O O B-num_tickets O O B-from_station O B-to_station I-to_station
+"ten tickets from Konankunte Cross to Silk Institute, please.",metro_booking B-num_tickets O O B-from_station I-from_station O B-to_station I-to_station O
+Book 7 seats on the metro from Srirampura to Ragigudda.,metro_booking O B-num_tickets O O O O O B-from_station O B-to_station
+I want to reserve six metro tickets from Silk Institute to Vajrahalli.,metro_booking O O O O B-num_tickets O O O B-from_station I-from_station O B-to_station
+Can I buy six tickets from Attiguppe to Doddakallasandra?,metro_booking O O O B-num_tickets O O B-from_station O B-to_station
+I'd like to book seven tickets on the metro from Dr. B.R. Ambedkar Station Vidhana Soudha to Kengeri.,metro_booking O O O O B-num_tickets O O O O O O O O O O O O B-to_station
+"3 tickets from Kuvempu Road to Vijayanagar, please.",metro_booking B-num_tickets O O B-from_station I-from_station O B-to_station O
+Can you get me seven tickets for the metro from Mysore Road to Peenya?,metro_booking O O O O B-num_tickets O O O O O B-from_station I-from_station O B-to_station
+six ticket from Cubbon Park to Konankunte Cross.,metro_booking B-num_tickets O O B-from_station I-from_station O B-to_station I-to_station
+Book ten adult ticket from Jayanagar to Kengeri.,metro_booking O B-num_tickets O O O B-from_station O B-to_station
+Can I book 5 tickets from Peenya to JP Nagar?,metro_booking O O O B-num_tickets O O B-from_station O B-to_station I-to_station
+I need to book 10 tickets from MG Road to Kengeri.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station O B-to_station
+Get me 4 tickets from Yeshwanthpur to Indiranagar.,metro_booking O O B-num_tickets O O B-from_station O B-to_station
+six ticket from Whitefield to South End Circle.,metro_booking B-num_tickets O O B-from_station O B-to_station I-to_station I-to_station
+I'd like to get 7 tickets from South End Circle to Nagasandra.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station I-from_station O B-to_station
+Need 6 tickets from Nayandahalli to Attiguppe.,metro_booking O B-num_tickets O O B-from_station O B-to_station
+I need to book tickets for 10 from Talaghattapura to Hosahalli.,metro_booking O O O O O O B-num_tickets O B-from_station O B-to_station
+nine ticket from Hosahalli to Nayandahalli.,metro_booking B-num_tickets O O B-from_station O B-to_station
+I need to book a tickets from Kengeri to Hosahalli.,metro_booking O O O O B-num_tickets O O B-from_station O B-to_station
+Book 2 adult ticket from Mysore Road to Ragigudda.,metro_booking O B-num_tickets O O O B-from_station I-from_station O B-to_station
+I want to book 10 tickets from Silk Institute to JP Nagar.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station O B-to_station I-to_station
+Please book three tickets from Sandal Soap Factory to National College.,metro_booking O O B-num_tickets O O B-from_station I-from_station I-from_station O B-to_station I-to_station
+I'd like to get 1 tickets from KR Market to Kuvempu Road.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station O B-to_station I-to_station
+Need 4 tickets from Mantri Square Sampige Road to JP Nagar.,metro_booking O B-num_tickets O O B-from_station I-from_station I-from_station I-from_station O B-to_station I-to_station
+Book a ticket from Nayandahalli to Vajrahalli for ten person.,metro_booking O O O O B-from_station O B-to_station O B-num_tickets O
+Book for seven from Peenya to Mysore Road.,metro_booking O O B-num_tickets O B-from_station O B-to_station I-to_station
+Looking to book eight tickets from Banashankari to Kuvempu Road.,metro_booking O O O B-num_tickets O O B-from_station O B-to_station I-to_station
+I want to book 3 tickets from Deepanjali Nagar to Ragigudda.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station O B-to_station
+Please book 2 tickets from Attiguppe to Deepanjali Nagar.,metro_booking O O B-num_tickets O O B-from_station O B-to_station I-to_station
+I'd like to book eight tickets on the metro from Talaghattapura to Rajajinagar.,metro_booking O O O O B-num_tickets O O O O O B-from_station O B-to_station
+"I want to go from Konankunte Cross to Vijayanagar, 1 ticket.",metro_booking O O O O O B-from_station I-from_station O B-to_station B-num_tickets O
+I'd like to get five tickets from Jayaprakash Nagar to Yelachenahalli.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station O B-to_station
+Need 9 tickets from Krantivira Sangolli Rayanna Railway Station to Sandal Soap Factory.,metro_booking O B-num_tickets O O B-from_station I-from_station I-from_station I-from_station I-from_station O B-to_station I-to_station I-to_station
+Book 4 seats on the metro from Nayandahalli to Kadugodi.,metro_booking O B-num_tickets O O O O O B-from_station O B-to_station
+I want to book metro tickets from Kengeri to Jalahalli for six people.,metro_booking O O O O O O O B-from_station O B-to_station O B-num_tickets O
+I need a couple of ticket from Kengeri to Mysore Road.,metro_booking O O B-num_tickets I-num_tickets I-num_tickets O O B-from_station O B-to_station I-to_station
+"9 tickets from JP Nagar to Talaghattapura, please.",metro_booking B-num_tickets O O B-from_station I-from_station O B-to_station O
+Get me 8 tickets from Jayanagar to Kadugodi.,metro_booking O O B-num_tickets O O B-from_station O B-to_station
+"6 tickets from Dr. B.R. Ambedkar Station Vidhana Soudha to Dasarahalli, please.",metro_booking B-num_tickets O O O O O O O O O B-to_station O
+I need a ticket from Jayaprakash Nagar to Mysore Road.,metro_booking O O O O O B-from_station I-from_station O B-to_station I-to_station
+I want to book 6 tickets from Rajajinagar to Majestic.,metro_booking O O O O B-num_tickets O O B-from_station O B-to_station
+Please book tickets from Majestic to Nayandahalli for ten.,metro_booking O O O O B-from_station O B-to_station O B-num_tickets
+I want to book metro tickets from Nayandahalli to Doddakallasandra for just one people.,metro_booking O O O O O O O B-from_station O B-to_station O B-num_tickets I-num_tickets O
+How many tickets for Mantri Square Sampige Road to Yeshwanthpur? one.,metro_booking O O O O B-from_station I-from_station I-from_station I-from_station O B-to_station B-num_tickets
+I'd like to book 6 tickets on the metro from Banashankari to Nagasandra.,metro_booking O O O O B-num_tickets O O O O O B-from_station O B-to_station
+I need 6 ticket from Attiguppe to Vijayanagar.,metro_booking O O B-num_tickets O O B-from_station O B-to_station
+I need to book 3 tickets from Kengeri to JP Nagar.,metro_booking O O O O B-num_tickets O O B-from_station O B-to_station I-to_station
+Can I get a metro for two person from Konankunte Cross to Banashankari?,metro_booking O O O O O O B-num_tickets O O B-from_station I-from_station O B-to_station
+Please book 5 tickets from Sandal Soap Factory to South End Circle.,metro_booking O O B-num_tickets O O B-from_station I-from_station I-from_station O B-to_station I-to_station I-to_station
+"I want to go from South End Circle to Mahalaxmi, 7 ticket.",metro_booking O O O O O B-from_station I-from_station I-from_station O B-to_station B-num_tickets O
+I need a ticket from Hosahalli to Jayaprakash Nagar.,metro_booking O O O O O B-from_station O B-to_station I-to_station
+I'd like to get 10 tickets from Konankunte Cross to KR Market.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station O B-to_station I-to_station
+How many tickets for Yelachenahalli to Baiyappanahalli? 10.,metro_booking O O O O B-from_station O B-to_station B-num_tickets
+I need 6 ticket from Nayandahalli to Kadugodi.,metro_booking O O B-num_tickets O O B-from_station O B-to_station
+Can I get a metro for three person from Lalbagh to Attiguppe?,metro_booking O O O O O O B-num_tickets O O B-from_station O B-to_station
+I want to book a single trip from Nayandahalli to KR Market.,metro_booking O O O O O B-num_tickets O O B-from_station O B-to_station I-to_station
+I want to book a single trip from Yeshwanthpur to Mantri Square Sampige Road.,metro_booking O O O O O B-num_tickets O O B-from_station O B-to_station I-to_station I-to_station I-to_station
+"I want to go from Mantri Square Sampige Road to Attiguppe, ten ticket.",metro_booking O O O O O B-from_station I-from_station I-from_station I-from_station O B-to_station B-num_tickets O
+I need a couple of ticket from JP Nagar to Rajajinagar.,metro_booking O O B-num_tickets I-num_tickets I-num_tickets O O B-from_station I-from_station O B-to_station
+Looking to book 2 tickets from Banashankari to Peenya.,metro_booking O O O B-num_tickets O O B-from_station O B-to_station
+I'd like to book a couple of tickets on the metro from Mahalaxmi to JP Nagar.,metro_booking O O O O B-num_tickets I-num_tickets I-num_tickets O O O O O B-from_station O B-to_station I-to_station
+Book five seats on the metro from Ragigudda to Jalahalli.,metro_booking O B-num_tickets O O O O O B-from_station O B-to_station
+Can I book six tickets from Whitefield to Sir M. Visvesvaraya Station Central College?,metro_booking O O O B-num_tickets O O B-from_station O O O O O O O
+Need ten tickets from South End Circle to Attiguppe.,metro_booking O B-num_tickets O O B-from_station I-from_station I-from_station O B-to_station
+Can I buy 8 tickets from Dr. B.R. Ambedkar Station Vidhana Soudha to Mantri Square Sampige Road?,metro_booking O O O B-num_tickets O O O O O O O O O B-to_station I-to_station I-to_station I-to_station
+6 ticket from Mysore Road to Jayaprakash Nagar.,metro_booking B-num_tickets O O B-from_station I-from_station O B-to_station I-to_station
+Can you get me five tickets for the metro from KR Market to Kadugodi?,metro_booking O O O O B-num_tickets O O O O O B-from_station I-from_station O B-to_station
+I'd like to get 7 tickets from Whitefield to Mahalaxmi.,metro_booking O O O O B-num_tickets O O B-from_station O B-to_station
+Please book tickets from Vijayanagar to JP Nagar for two.,metro_booking O O O O B-from_station O B-to_station I-to_station O B-num_tickets
+I need to book tickets for 3 from Baiyappanahalli to Jayanagar.,metro_booking O O O O O O B-num_tickets O B-from_station O B-to_station
+I want to book metro tickets from MG Road to Doddakallasandra for ten people.,metro_booking O O O O O O O B-from_station I-from_station O B-to_station O B-num_tickets O
+Book seven tickets for metro from Konankunte Cross to Vijayanagar.,metro_booking O B-num_tickets O O O O B-from_station I-from_station O B-to_station
+I'd like to get 1 tickets from Mysore Road to Indiranagar.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station O B-to_station
+I'd like to get two tickets from Doddakallasandra to Attiguppe.,metro_booking O O O O B-num_tickets O O B-from_station O B-to_station
+Can I buy 4 tickets from Nagasandra to RV Road?,metro_booking O O O B-num_tickets O O B-from_station O B-to_station I-to_station
+I need to book tickets for four from JP Nagar to Jayanagar.,metro_booking O O O O O O B-num_tickets O B-from_station I-from_station O B-to_station
+I need to book tickets for 9 from Lalbagh to Sandal Soap Factory.,metro_booking O O O O O O B-num_tickets O B-from_station O B-to_station I-to_station I-to_station
+Book six adult ticket from Attiguppe to Cubbon Park.,metro_booking O B-num_tickets O O O B-from_station O B-to_station I-to_station
+I'd like to get 4 tickets from Dr. B.R. Ambedkar Station Vidhana Soudha to Rajarajeshwari Nagar.,metro_booking O O O O B-num_tickets O O O O O O O O O B-to_station I-to_station
+Book four adult ticket from Jayaprakash Nagar to JP Nagar.,metro_booking O B-num_tickets O O O B-from_station I-from_station O B-to_station I-to_station
+Get me a couple of tickets from Sandal Soap Factory to Silk Institute.,metro_booking O O B-num_tickets I-num_tickets I-num_tickets O O B-from_station I-from_station I-from_station O B-to_station I-to_station
+Can you get me 2 tickets for the metro from Mysore Road to KR Market?,metro_booking O O O O B-num_tickets O O O O O B-from_station I-from_station O B-to_station I-to_station
+I want to book metro tickets from Banashankari to Attiguppe for ten people.,metro_booking O O O O O O O B-from_station O B-to_station O B-num_tickets O
+Please book 9 tickets from Rajarajeshwari Nagar to Majestic.,metro_booking O O B-num_tickets O O B-from_station I-from_station O B-to_station
+Need 4 tickets from Yeshwanthpur to Rajarajeshwari Nagar.,metro_booking O B-num_tickets O O B-from_station O B-to_station I-to_station
+Can I get a metro for 6 person from RV Road to Talaghattapura?,metro_booking O O O O O O B-num_tickets O O B-from_station I-from_station O B-to_station
+Book a ticket from Nagasandra to Krantivira Sangolli Rayanna Railway Station for ten person.,metro_booking O O O O B-from_station O B-to_station I-to_station I-to_station I-to_station I-to_station O B-num_tickets O
+I'd like to book seven tickets on the metro from Jayanagar to Sandal Soap Factory.,metro_booking O O O O B-num_tickets O O O O O B-from_station O B-to_station I-to_station I-to_station
+I want to book metro tickets from Doddakallasandra to Whitefield for 4 people.,metro_booking O O O O O O O B-from_station O B-to_station O B-num_tickets O
+How many tickets for Doddakallasandra to Silk Institute? four.,metro_booking O O O O B-from_station O B-to_station I-to_station B-num_tickets
+Can I book two tickets from MG Road to Dasarahalli?,metro_booking O O O B-num_tickets O O B-from_station I-from_station O B-to_station
+I want to book five tickets from Jayaprakash Nagar to Kadugodi.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station O B-to_station
+Please book eight tickets from Sandal Soap Factory to Vijayanagar.,metro_booking O O B-num_tickets O O B-from_station I-from_station I-from_station O B-to_station
+Book 10 seats on the metro from Nayandahalli to Kadugodi.,metro_booking O B-num_tickets O O O O O B-from_station O B-to_station
+I want to reserve 10 metro tickets from Kengeri to Whitefield.,metro_booking O O O O B-num_tickets O O O B-from_station O B-to_station
+"seven tickets from Sandal Soap Factory to Kadugodi, please.",metro_booking B-num_tickets O O B-from_station I-from_station I-from_station O B-to_station O
+I want to reserve ten metro tickets from Nayandahalli to National College.,metro_booking O O O O B-num_tickets O O O B-from_station O B-to_station I-to_station
+How many tickets for JP Nagar to Yelachenahalli? 7.,metro_booking O O O O B-from_station I-from_station O B-to_station B-num_tickets
+Book 8 adult ticket from Attiguppe to Vajrahalli.,metro_booking O B-num_tickets O O O B-from_station O B-to_station
+Can I book six tickets from Sir M. Visvesvaraya Station Central College to Kadugodi?,metro_booking O O O B-num_tickets O O O O O O O O O B-to_station
+I want to book a single trip from National College to Nagasandra.,metro_booking O O O O O B-num_tickets O O B-from_station I-from_station O B-to_station
+Can I get a metro for 3 person from Doddakallasandra to Whitefield?,metro_booking O O O O O O B-num_tickets O O B-from_station O B-to_station
+Can I book just one tickets from Dasarahalli to Banashankari?,metro_booking O O O B-num_tickets I-num_tickets O O B-from_station O B-to_station
+I need to book one tickets from MG Road to Yelachenahalli.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station O B-to_station
+I need a ticket from Mahalaxmi to Sandal Soap Factory.,metro_booking O O O O O B-from_station O B-to_station I-to_station I-to_station
+Book seven tickets from Kadugodi to Ragigudda.,metro_booking O B-num_tickets O O B-from_station O B-to_station
+Please book ten tickets from Mantri Square Sampige Road to Yelachenahalli.,metro_booking O O B-num_tickets O O B-from_station I-from_station I-from_station I-from_station O B-to_station
+Need 7 tickets from Sir M. Visvesvaraya Station Central College to Jayanagar.,metro_booking O B-num_tickets O O O O O O O O O B-to_station
+Please book tickets from Indiranagar to Ragigudda for nine.,metro_booking O O O O B-from_station O B-to_station O B-num_tickets
+Need seven tickets from South End Circle to Rajajinagar.,metro_booking O B-num_tickets O O B-from_station I-from_station I-from_station O B-to_station
+I need to book tickets for 6 from Mantri Square Sampige Road to Cubbon Park.,metro_booking O O O O O O B-num_tickets O B-from_station I-from_station I-from_station I-from_station O B-to_station I-to_station
+Can I get a metro for a person from Konankunte Cross to Kuvempu Road?,metro_booking O O O B-num_tickets O O O O O B-from_station I-from_station O B-to_station I-to_station
+I'd like to get 10 tickets from Sandal Soap Factory to Lalbagh.,metro_booking O O O O B-num_tickets O O B-from_station I-from_station I-from_station O B-to_station
