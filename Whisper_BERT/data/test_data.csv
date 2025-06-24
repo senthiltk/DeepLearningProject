@@ -1,0 +1,11 @@
+audio_path,text,from_station,to_station,num_tickets
+./data/metro_gar_mys_road.m4a,Book one metro ticket from garudacharpalya to Mysore Road,garudacharpalya,Mysore Road,1
+./data/book_ticket_en.wav.wav,Book a ticket from whitefield to Majestic for 4 Members, whitefield,Majestic,4
+
+
+
+
+
+
+
+
