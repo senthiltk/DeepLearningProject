@@ -1,0 +1,27 @@
+User Query,True Intent
+I want to book a metro ticket.,Book Metro Ticket
+Book me a ticket to the airport.,Book Metro Ticket
+Can I get a metro ticket from Varthur to Majestic?,Book Metro Ticket
+I need to book a ride for tomorrow.,Book Metro Ticket
+Metro ticket booking.,Book Metro Ticket
+What's my metro card balance?,Check Metro Balance
+Check my balance.,Check Metro Balance
+How much money is on my card?,Check Metro Balance
+Inquire about my metro credit.,Check Metro Balance
+Balance check.,Check Metro Balance
+Hello.,General Query
+How are you?,General Query
+What's the weather like?,General Query
+Tell me a joke.,General Query
+Who are you?,General Query
+Can you help me with something else?,General Query
+Cancel my metro ticket.,Cancel Booking
+I want to cancel my booking.,Cancel Booking
+Undo the last metro reservation.,Cancel Booking
+Book a train ticket to Indiranagar.,Book Metro Ticket
+What's the time now?,General Query
+Do I have enough money for a trip?,Check Metro Balance
+I need to reverse my ticket purchase.,Cancel Booking
+How can I buy a ticket?,Book Metro Ticket
+Show me my card details.,Check Metro Balance
+I want to know about metro routes.,General Query
