@@ -1,0 +1,108 @@
+Loading RAG components...
+
+Starting evaluation on 26 samples...
+Processing 'I want to book a metro ticket.' (True: Book Metro Ticket)...
+  -> Predicted: Book Metro Ticket
+
+Processing 'Book me a ticket to the airport.' (True: Book Metro Ticket)...
+  -> Predicted: Book Metro Ticket
+
+Processing 'Can I get a metro ticket from Varthur to Majestic?' (True: Book Metro Ticket)...
+  -> Predicted: Book Metro Ticket
+
+Processing 'I need to book a ride for tomorrow.' (True: Book Metro Ticket)...
+  -> Predicted: Book Metro Ticket
+
+Processing 'Metro ticket booking.' (True: Book Metro Ticket)...
+  -> Predicted: Book Metro Ticket
+
+Processing 'What's my metro card balance?' (True: Check Metro Balance)...
+  -> Predicted: Check Metro Balance
+
+Processing 'Check my balance.' (True: Check Metro Balance)...
+  -> Predicted: Check Metro Balance
+
+Processing 'How much money is on my card?' (True: Check Metro Balance)...
+  -> Predicted: Check Metro Balance
+
+Processing 'Inquire about my metro credit.' (True: Check Metro Balance)...
+  -> Predicted: Check Metro Balance
+
+Processing 'Balance check.' (True: Check Metro Balance)...
+  -> Predicted: Check Metro Balance
+
+Processing 'Hello.' (True: General Query)...
+  -> Predicted: General Query
+
+Processing 'How are you?' (True: General Query)...
+  -> Predicted: General Query
+
+Processing 'What's the weather like?' (True: General Query)...
+  -> Predicted: General Query
+
+Processing 'Tell me a joke.' (True: General Query)...
+  -> Predicted: General Query
+
+Processing 'Who are you?' (True: General Query)...
+  -> Predicted: General Query
+
+Processing 'Can you help me with something else?' (True: General Query)...
+  -> Predicted: General Query
+
+Processing 'Cancel my metro ticket.' (True: Cancel Booking)...
+  -> Predicted: Cancel Booking
+
+Processing 'I want to cancel my booking.' (True: Cancel Booking)...
+  -> Predicted: Cancel Booking
+
+Processing 'Undo the last metro reservation.' (True: Cancel Booking)...
+  -> Predicted: Cancel Booking
+
+Processing 'Book a train ticket to Indiranagar.' (True: Book Metro Ticket)...
+  -> Predicted: Book Metro Ticket
+
+Processing 'What's the time now?' (True: General Query)...
+  -> Predicted: General Query
+
+Processing 'Do I have enough money for a trip?' (True: Check Metro Balance)...
+  -> Predicted: General Query
+
+Processing 'I need to reverse my ticket purchase.' (True: Cancel Booking)...
+  -> Predicted: Cancel Booking
+
+Processing 'How can I buy a ticket?' (True: Book Metro Ticket)...
+  -> Predicted: Book Metro Ticket
+
+Processing 'Show me my card details.' (True: Check Metro Balance)...
+  -> Predicted: Check Metro Balance
+
+Processing 'I want to know about metro routes.' (True: General Query)...
+  -> Predicted: General Query
+
+
+--- Evaluation Results ---
+Classes: ['Book Metro Ticket', 'Cancel Booking', 'Check Metro Balance', 'General Query']
+
+Confusion Matrix:
+                     Book Metro Ticket  ...  General Query
+Book Metro Ticket                    7  ...              0
+Cancel Booking                       0  ...              0
+Check Metro Balance                  0  ...              1
+General Query                        0  ...              8
+
+[4 rows x 4 columns]
+
+Weighted F1 Score: 0.9612
+
+Classification Report:
+                     precision    recall  f1-score   support
+
+  Book Metro Ticket       1.00      1.00      1.00         7
+     Cancel Booking       1.00      1.00      1.00         4
+Check Metro Balance       1.00      0.86      0.92         7
+      General Query       0.89      1.00      0.94         8
+
+           accuracy                           0.96        26
+          macro avg       0.97      0.96      0.97        26
+       weighted avg       0.97      0.96      0.96        26
+
